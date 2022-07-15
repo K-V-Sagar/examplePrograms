@@ -19,5 +19,3 @@ public class threading extends Thread{
 		mtpl.start(); mtp2.start();
 	}
 }
-
-
